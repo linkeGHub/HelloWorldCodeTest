@@ -1,0 +1,8 @@
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\HelloWorldCodeTest\obj\Debug\HelloWorldCodeTest.csprojResolveAssemblyReference.cache
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\HelloWorldCodeTest\bin\Debug\HelloWorldCodeTest.exe.config
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\HelloWorldCodeTest\bin\Debug\HelloWorldCodeTest.exe
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\HelloWorldCodeTest\bin\Debug\HelloWorldCodeTest.pdb
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\HelloWorldCodeTest\bin\Debug\API.Output.dll
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\HelloWorldCodeTest\bin\Debug\API.Output.pdb
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\HelloWorldCodeTest\obj\Debug\HelloWorldCodeTest.exe
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\HelloWorldCodeTest\obj\Debug\HelloWorldCodeTest.pdb

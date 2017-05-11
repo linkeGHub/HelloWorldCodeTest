@@ -1,0 +1,4 @@
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\bin\Debug\Outputter.dll
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\bin\Debug\Outputter.pdb
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\obj\Debug\Outputter.dll
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\obj\Debug\Outputter.pdb

@@ -1,0 +1,4 @@
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\bin\Debug\API.Output.dll
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\bin\Debug\API.Output.pdb
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\obj\Debug\API.Output.dll
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\obj\Debug\API.Output.pdb

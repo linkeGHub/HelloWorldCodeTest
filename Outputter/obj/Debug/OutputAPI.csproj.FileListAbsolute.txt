@@ -1,0 +1,7 @@
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\bin\Debug\OutputterAPI.dll
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\bin\Debug\OutputterAPI.pdb
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\obj\Debug\OutputAPI.csprojResolveAssemblyReference.cache
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\obj\Debug\OutputterAPI.dll
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\obj\Debug\OutputterAPI.pdb
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\bin\Debug\APIInterfaces.dll
+c:\users\lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\Outputter\bin\Debug\APIInterfaces.pdb
