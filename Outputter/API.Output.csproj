@@ -46,9 +46,10 @@
     <Compile Include="Outputter.cs" />
     <Compile Include="Outputters\ConsoleOutput.cs" />
     <Compile Include="Outputters\DbOutput.cs" />
+    <Compile Include="Outputters\FileOutput.cs" />
     <Compile Include="Outputters\MobileOutput.cs" />
     <Compile Include="Outputters\NewOutput.cs" />
-    <Compile Include="Outputters\OutputterFactory.cs" />
+    <Compile Include="OutputterFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Outputters\WebOutput.cs" />
   </ItemGroup>

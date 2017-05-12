@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace API.Output.Outputters
+namespace API.Output
 {
     public class OutputterFactory
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using API.Output.Outputters;
+using API.Output;
 
 namespace APIUnitTest
 {

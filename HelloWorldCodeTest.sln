@@ -9,22 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Output", "Outputter\API
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIUnitTest", "APIUnitTest\APIUnitTest.csproj", "{1C7E9C84-D86B-4D80-887E-B674BD9BE49F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiService", "ApiService\ApiService.csproj", "{04450DA2-3CC1-4222-9216-429E9D5225B1}"
+EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://lke.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = HelloWorldCodeTest\\HelloWorldCodeTest.csproj
-		SccProjectName1 = HelloWorldCodeTest
-		SccLocalPath1 = HelloWorldCodeTest
-		SccProjectUniqueName2 = Outputter\\API.Output.csproj
-		SccProjectName2 = Outputter
-		SccLocalPath2 = Outputter
-		SccProjectUniqueName3 = APIUnitTest\\APIUnitTest.csproj
-		SccProjectName3 = APIUnitTest
-		SccLocalPath3 = APIUnitTest
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -42,6 +29,10 @@ Global
 		{1C7E9C84-D86B-4D80-887E-B674BD9BE49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C7E9C84-D86B-4D80-887E-B674BD9BE49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C7E9C84-D86B-4D80-887E-B674BD9BE49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04450DA2-3CC1-4222-9216-429E9D5225B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04450DA2-3CC1-4222-9216-429E9D5225B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04450DA2-3CC1-4222-9216-429E9D5225B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04450DA2-3CC1-4222-9216-429E9D5225B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\obj\Debug\ApiService.csprojResolveAssemblyReference.cache
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\ApiService.dll.config
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\ApiService.dll
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\ApiService.pdb
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\API.Output.dll
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\Newtonsoft.Json.dll
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\System.Net.Http.Formatting.dll
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\System.Web.Http.dll
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\System.Web.Http.WebHost.dll
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\API.Output.pdb
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\Newtonsoft.Json.xml
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\System.Net.Http.Formatting.xml
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\System.Web.Http.xml
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\bin\System.Web.Http.WebHost.xml
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\obj\Debug\ApiService.dll
+C:\Users\Lin\documents\visual studio 2013\Projects\HelloWorldCodeTest\ApiService\obj\Debug\ApiService.pdb
