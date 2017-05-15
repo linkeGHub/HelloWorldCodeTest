@@ -8,24 +8,6 @@ namespace APIUnitTest
     public class UnitTest1
     {
         [TestMethod]
-        public void TestWebOutput()
-        {
-            var outputterClass = "API.Output.Outputters.WebOutput";
-            var outputterObj = OutputterFactory.GetOutputter(outputterClass);
-            outputterObj.Output("Hello World");
-
-            Assert.AreEqual("WebOutput:Hello World", outputterObj.Result);
-        }
-        [TestMethod]
-        public void TestMobileOutput()
-        {
-            var outputterClass = "API.Output.Outputters.MobileOutput";
-            var outputterObj = OutputterFactory.GetOutputter(outputterClass);
-            outputterObj.Output("Hello World");
-
-            Assert.AreEqual("MobileOutput:Hello World", outputterObj.Result);
-        }
-        [TestMethod]
         public void TestConsoleOutput()
         {
             var outputterClass = "API.Output.Outputters.ConsoleOutput";
